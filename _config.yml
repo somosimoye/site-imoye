@@ -30,7 +30,7 @@ hero:
 # Newsletter (_includes/footer-widgets/widget-subscribe.html)
 mailchimp__title: Fique por dentro das nossas novidades # Add your Title
 mailchimp__text: Se increve para ficar por dentro dos nossos posts e novidades. # Add your description.
-mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp__identifier: dev.us1.list-manage.com/subscribe/post?u=3e70e410e7d15aa497bc0e394&amp;id=addb892347 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 mailchimp__button__text: Inscreva-se # Add your button text
 
 
@@ -50,7 +50,9 @@ contact:
 # Other icons can be found at https://ionicons.com/v4/
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com"}
 - {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-linkedin", link: "https://linkedin.com"}
 #- {icon: "ion-logo-youtube", link: "https://youtube.com"}
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 #- {icon: "ion-logo-codepen", link: "https://codepen.io"}
