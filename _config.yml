@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Imoye
-logo: # 'images/LOGOTIPO_IMOYE_Prancheta 1.jpg' # You can add own logo. For example '/images/logo.png'.
+logo: 'images/IMOYE_Prancheta1.png' # You can add own logo. For example '/images/logo.png'.
 description: Coletivo de mentorias entre mulheres negras na area de tecnologia
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
@@ -64,21 +64,21 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Gallery Footer Section
-gallery:
-  title: Gallery
-  images:
-    - alt: 'Minimalism'
-      url: '/images/06.jpg'
-    - alt: 'Minimalism'
-      url: '/images/05.jpg'
-    - alt: 'Minimalism'
-      url: '/images/08.jpg'
-    - alt: 'Minimalism'
-      url: '/images/03.jpg'
-    - alt: 'Minimalism'
-      url: '/images/09.jpg'
-    - alt: 'Minimalism'
-      url: '/images/04.jpg'
+#gallery:
+  # title: Gallery
+  # images:
+  #   - alt: 'Minimalism'
+  #     url: '/images/06.jpg'
+  #   - alt: 'Minimalism'
+  #     url: '/images/05.jpg'
+  #   - alt: 'Minimalism'
+  #     url: '/images/08.jpg'
+  #   - alt: 'Minimalism'
+  #     url: '/images/03.jpg'
+  #   - alt: 'Minimalism'
+  #     url: '/images/09.jpg'
+  #   - alt: 'Minimalism'
+  #     url: '/images/04.jpg'
 
 
 #-------------------------------
