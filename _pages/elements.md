@@ -73,7 +73,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ## Images
 
-<div class="gallery-box">
+{%- comment -%} <div class="gallery-box">
   <div class="gallery">
     <img src="/images/02.jpg">
     <img src="/images/03.jpg">
@@ -83,7 +83,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
     <img src="/images/10.jpg">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+</div> {%- endcomment -%}
 
 ![Graffiti]({{site.baseurl}}/images/17.jpg)
 *Photo by [Eddy Klaus](https://unsplash.com/photos/BHNxfaeNCTI) on Unsplash*
