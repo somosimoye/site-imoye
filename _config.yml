@@ -20,7 +20,7 @@ blog-theme: light # By default, Atega theme uses a 'light' color scheme, to chan
 hero:
   hero__title: Oi, Nós somos <span class="hero__name">Imoye</span>.
   hero__job: #Designer, Illustrator
-  hero__description: Coletivo de mentorias entre mulheres negras na area de tecnologia
+  hero__description: Somos um grupo de mentoria coletiva entre mulheres negras das áreas de tecnologia.
   hero__button__text: Leia sobre nós
   hero__button__link: '/sobre'
   hero__image: 'images/logorecorte.png'
