@@ -30,7 +30,7 @@ hero:
 # Newsletter (_includes/footer-widgets/widget-subscribe.html)
 mailchimp__title: Fique por dentro das nossas novidades # Add your Title
 mailchimp__text: Se increve para ficar por dentro dos nossos posts e novidades. # Add your description.
-mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp__identifier: github.us10.list-manage.com/subscribe/post?u=d9553c4c9b8b4bba4fb3d8262&amp;id=1d2ecdeb5d # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 mailchimp__button__text: Inscreva-se # Add your button text
 
 
@@ -38,7 +38,7 @@ mailchimp__button__text: Inscreva-se # Add your button text
 # Contact Settings
 contact:
   email: mentoria@imoye.dev # Add your email for contant form
-  description: Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: #Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
