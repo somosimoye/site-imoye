@@ -23,7 +23,7 @@ hero:
   hero__description: I spend a lot of time creating cool things
   hero__button__text: Read about my past
   hero__button__link: '/about'
-  hero__image: '/images/01.jpg'
+  hero__image: 'images/LOGOTIPO_IMOYE_Prancheta 1.png'
 
 
 #-------------------------------
