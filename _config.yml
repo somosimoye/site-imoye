@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Imoye
-logo: 'images/IMOYE_Prancheta1.png' # You can add own logo. For example '/images/logo.png'.
+logo: #'images/imoye_prancheta1.png' # You can add own logo. For example '/images/logo.png'.
 description: Coletivo de mentorias entre mulheres negras na area de tecnologia
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,7 +23,7 @@ hero:
   hero__description: I spend a lot of time creating cool things
   hero__button__text: Read about my past
   hero__button__link: '/about'
-  hero__image: 'images/IMOYE_Prancheta1.png'
+  hero__image: 'images/imoye_prancheta1.png'
 
 
 #-------------------------------
