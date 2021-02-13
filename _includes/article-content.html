@@ -15,7 +15,8 @@
         {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 125 }}{% endif %}
       </p>
       <div class="article__meta">
-        <a href="{{site.baseurl}}/about/" class="article__author-link">{{site.author.name}}</a>
+        <img class="author__image" src="{{post.author.image}}"></img>
+        <span class="article__author-link">{{post.author.name}}</span>
         <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></span>
         {% if post.tags.size >= 1 %}
         <div class="article-tags__box">

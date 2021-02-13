@@ -26,7 +26,8 @@
             </div>
 
             <h1 class="hero__title">{{ page.title }}</h1>
-            <a href="{{site.baseurl}}/about/" class="article__author-link"><span>By</span> {{site.author.name}}</a>
+            <img class="author__image" src="{{page.author.image}}"></img>
+            <span>By</span> {{page.author.name}}
 
             {% elsif page.path contains '_pages' or page.url contains '404' %}
             <h1 class="hero__title">{{ page.title }}</h1>

@@ -2,6 +2,9 @@
 layout: post
 title:  Primeiro post
 date:   2021-02-13 15:01:35 +0300
-image:  #'/images/10.jpg'
+image:  '../images/imoye_prancheta1.png'
 tags:   Tecnologia
+author:
+  name: Nana
+  image: '../images/logorecorte.png'
 ---
