@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Imoye
-logo: #'images/imoye_prancheta1.png' # You can add own logo. For example '/images/logo.png'.
+logo: 'images/logorecorte.png' # You can add own logo. For example '/images/logo.png'.
 description: Coletivo de mentorias entre mulheres negras na area de tecnologia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
@@ -18,12 +18,12 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm <span class="hero__name">Leo Hawkins</span>.
-  hero__job: Designer, Illustrator
-  hero__description: I spend a lot of time creating cool things
-  hero__button__text: Read about my past
-  hero__button__link: '/about'
-  hero__image: 'images/imoye_prancheta1.png'
+  hero__title: Oi, Nós somos <span class="hero__name">Imoye</span>.
+  hero__job: #Designer, Illustrator
+  hero__description: Coletivo de mentorias entre mulheres negras na area de tecnologia
+  hero__button__text: Leia sobre nós
+  hero__button__link: '/sobre'
+  hero__image: 'images/logorecorte.png'
 
 
 #-------------------------------
