@@ -2,7 +2,7 @@
 layout: post
 title:  Simples Load Balancer com Python
 date:   2021-02-14 15:01:35 +0300
-image:  '../images/python-logo.png'
+image:  '../images/python-colour.jpg'
 tags:   Tecnologia
 author:
   name: Nana
