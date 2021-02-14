@@ -13,19 +13,19 @@ image: '../images/logorecorte.png'
   </div>
   <form class="form" action="{% if site.contact.email %}https://formspree.io/f/xzbkqzoq{% else %}#{% endif %}" method="POST">
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+      <label class="form__label screen-reader-text" for="form-name">Seu nome</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="Name..." required>
     </div>
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+      <label class="form__label screen-reader-text" for="form-email">Seu em-mail</label>
       <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
     </div>
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+      <label class="form__label screen-reader-text" for="form-text">Digite a sua mensagem</label>
       <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message..." required></textarea>
     </div>
     <div class="form__group">
-      <button class="button" type="submit">Send Message</button>
+      <button class="button" type="submit">Enviar Mensagem</button>
     </div>
   </form>
 </div>
