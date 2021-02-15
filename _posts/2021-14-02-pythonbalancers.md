@@ -8,8 +8,9 @@ author:
   name: Nana
   image: '../images/nana.jpeg'
 ---
-# Tutorial-Python-Load-Balancer
-Tutorial de Load Balancer utilizando Python
+
+Tutorial de Load Balancer utilizando Python. 
+
 Vamos fazer um balanceamento de carga bem fácil e simples utilizando uma biblioteca do Python chamada Tornado. 
 
 ## Tornado
