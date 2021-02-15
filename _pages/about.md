@@ -5,7 +5,7 @@ permalink: /sobre/
 image: '../images/logorecorte.png'
 ---
 
-Nós somos um grupo de mentoria de carrreira coletiva entre mulheres negras das areas de tecnologia. O grupo foi fundado pela [Nana da Silva](linktr.ee/shebangbash) que quer muito que as mulheres negras não enfrentem mais as micro violencias sozinhas que exitem no mercado de trabalho. 
+Nós somos um grupo de mentoria de carrreira coletiva entre mulheres negras das areas de tecnologia. O grupo foi fundado pela [Nana da Silva](https://linktr.ee/shebangbash) que quer muito que as mulheres negras não enfrentem mais as micro violencias sozinhas que exitem no mercado de trabalho. 
 
 A mentoria iniciou no ano de 2020 como um projeto piloto e já temos mais de 10 mulheres incríveis particiopando. O grupo é um ambiente seguro, de apoio e principalmente de troca.
 
