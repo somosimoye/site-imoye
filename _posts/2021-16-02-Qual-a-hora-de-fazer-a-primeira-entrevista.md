@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Benchmark para iniciantes - Go
+title:  Qual é a hora de fazer a primeira entrevista?
 date:   2021-02-16 15:01:35 +0300
 image:  '../images/entrevista.jpg'
 tags:   [Tecnologia, carreira]
