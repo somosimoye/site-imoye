@@ -3,12 +3,11 @@ layout: post
 title:  Qual é a hora de fazer a primeira entrevista?
 date:   2021-02-16 15:01:35 +0300
 image:  '../images/entrevista.jpg'
-tags:   Carreira
+tags:   [Carreira, Tecnologia]
 author:
     name: Bella Souzas
     image: '../images/bella-perfil.jpeg'
 ---
-
 ## Qual é a hora de fazer a primeira entrevista?
 
 Bom, essa é uma pergunta que passa sempre na cabeça de quem está em transição de carreira. Vou contar um pouco sobre minha experiência nessa fase de transição de carreira.
