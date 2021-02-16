@@ -5,8 +5,8 @@ date:   2021-02-16 15:01:35 +0300
 image:  '../images/post-benchmark.jpeg'
 tags:   [Tecnologia, Go]
 author: 
-name: Bella Souzas
-image: '../images/bella-perfil.jpeg'
+    name: Bella Souzas
+    image: '../images/bella-perfil.jpeg'
 ---
 Eu sempre ouvi sobre benchmark nos meetups, nas lives, nas discussões, mas eu achava que seria algo tão dificil que só poderia estudar quando eu estivesse bem mais avançada na linguagem. Sim, estudar testes tem sido um desafio grande, mas lendo alguns artigos, documentação da linguagem me surpreendeu sobre a implementação.
 

@@ -5,8 +5,8 @@ date:   2021-02-16 15:01:35 +0300
 image:  '../images/entrevista.jpg'
 tags:   [Tecnologia, carreira]
 author:
-name: Bella Souzas
-image: '../images/bella-perfil.jpeg'
+    name: Bella Souzas
+    image: '../images/bella-perfil.jpeg'
 ---
 
 ## Qual é a hora de fazer a primeira entrevista?
