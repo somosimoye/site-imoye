@@ -2,7 +2,7 @@
 layout: post
 title:  Benchmark para iniciantes - Go
 date:   2021-02-16 15:01:35 +0300
-image:  '../images/post-benchmark.jpeg'
+image:  '../images/benchmark-post.jpg'
 tags:   [Go, Tecnologia]
 author: 
     name: Bella Souzas
@@ -86,8 +86,8 @@ Esse resultado significa que a minha função leva em média 211 nanosegundos pa
 Esses são os materiais valiosíssimos que me ajudaram a entender melhor sobre benchmark.
 Super indico a leitura:
 
-* https://golang.org/pkg/testing/
-* https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration
-* https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
+* [https://golang.org/pkg/testing/](https://golang.org/pkg/testing/)
+* [https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)
+* [ https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go](https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go)
 
 
