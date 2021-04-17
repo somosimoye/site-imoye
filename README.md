@@ -18,7 +18,9 @@ Depois que você teve acesso a esse repositório siga as instruções seguintes:
     image: "../images/logorecorte.png" (coloque o path/caminho da sua foto)
 ```
 - Abaixo disso coloque o seu texto;
-- Depois é só fazer o push;
+- Depois é só fazer o push e abrir o seu pr :D
+
+```
 
 # Atega - Creative Personal Blog Theme for Jekyll
 
