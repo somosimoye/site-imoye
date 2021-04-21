@@ -2,7 +2,7 @@ layout: post
 title: O desafio de se envolver com uma mulher gorda e preta
 date: 2021-04-18 21:01:35 +0300
 image: "../images/cabelorosaazul.jpg"
-tags: DReflexões
+tags: Reflexões
 author:
   name: Fernanda Souza
   image: "../images/cabelorosaazul.jpg"
