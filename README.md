@@ -8,6 +8,7 @@ Depois que você teve acesso a esse repositório siga as instruções seguintes:
 - Inicie o texto colocando as seguintes informações:
 
   ```
+  ---
   layout: post
   title: Título do seu post/texto/artigo
   date: 2021-02-13 15:01:35 +0300 (insira a data da sua postagem)
@@ -16,6 +17,7 @@ Depois que você teve acesso a esse repositório siga as instruções seguintes:
   author:
     name: Imoye (coloque seu nome)
     image: "../images/logorecorte.png" (coloque o path/caminho da sua foto)
+    ---
 ```
 - Abaixo disso coloque o seu texto;
 - Depois é só fazer o push e abrir o seu pr :D
