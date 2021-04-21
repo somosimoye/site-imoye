@@ -1,3 +1,4 @@
+---
 layout: post
 title: O desafio de se envolver com uma mulher gorda e preta
 date: 2021-04-18 21:01:35 +0300
@@ -6,7 +7,7 @@ tags: Reflexões
 author:
   name: Fernanda Souza
   image: "../images/cabelorosaazul.jpg"
-  
+---
   
 Nesses cinco anos que eu enfim venho encarando a questão racial de frente, muitas questões vem permeando a minha existência, mas a que mais me deixa inquieta com frequência no âmbito afetivo é: qual tipo de amor eu mereço? Digo isso pois na hora de pautar amor a dois, mesmo entre pessoas pretas, o corpo é sempre uma questão.
 
