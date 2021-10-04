@@ -10,6 +10,8 @@ author:
 ---
 Esse texto é um relato do que eu passei sobrevivendo em uma pandemia fora do meu país de origem.
 
+Eu infelizmente não consegui deixar o texto mais conciso, mas eu espero que ele esteja no mínimo legível.
+
 Migrar de país sempre foi uma meta desde 2018, mas isso aconteceu em 2019 quando o Ruan e eu chegamos aqui na Irlanda. Até então parecia tudo indo muito bem até que só se ouvia falar de corona vírus nos jornais. O vírus chegou aqui na Irlanda e em fevereiro de 2020 o Ruan já estava trabalhando de casa no nosso minúsculo apartamento em Dublin 6.
 
 Fiz diversas entrevistas até que aceitei o desafio de trabalhar com algo totalmente novo para mim na Red Hat, o sonho de trabalhar em uma empresa Open Source chegou e eu estava realmente empolgada. Devido à pandemia o computador demorou para chegar, aconteceram várias coisas, muitas coisas!
