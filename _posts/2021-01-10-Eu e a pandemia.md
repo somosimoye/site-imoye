@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Eu e a pandemia
-date:   2021-01-10 15:01:35 +0300
+date:   2021-10-01 15:01:35 +0300
 image:  '../images/burnout.jpg'
 tags:   Tecnologia
 author:
