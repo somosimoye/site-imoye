@@ -9,4 +9,4 @@ Caso você, seja um mulher negra que já está trabalhando com T.I ou está em t
 
 <b>Atualização dia 30/10/2021: Estamos com vagas abertas para pessoas mentoras! Leia os nossos pré requisitos [aqui](https://github.com/somosimoye)</b>
 
-Ou se preferir, entre em contato pelo e-mail mentoria@imoye.dev
+Ou se preferir, entre em contato pelo e-mail _mentoria@imoye.dev_
